@@ -1,7 +1,7 @@
 # MIT-HSSP-Modeling-Mechanics-and-Circuits
 Notes and finished code for custom MIT ESP Class: Modeling Circuits and Mechanics via Differential Equations and Javascript.
 
-**About the class:**
+**About the Class:**
 
 The core idea behind this class is that modeling is the process of transcribing the physical world into the realm of math, and there are many decisions we need to make along the way. We turn to math to be able to study a system rigorously, creating a model to not only understand the current state of the system but also to make predictions on future states.
 
